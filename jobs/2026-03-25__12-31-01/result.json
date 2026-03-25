@@ -1,0 +1,27 @@
+{
+    "id": "18512bf2-a76e-456b-b00e-385bc98d16dc",
+    "started_at": "2026-03-25T12:31:13.656393",
+    "finished_at": "2026-03-25T12:31:25.311852",
+    "n_total_trials": 1,
+    "stats": {
+        "n_trials": 1,
+        "n_errors": 1,
+        "evals": {
+            "oracle__adhoc": {
+                "n_trials": 0,
+                "n_errors": 1,
+                "metrics": [
+                    {
+                        "mean": 0.0
+                    }
+                ],
+                "reward_stats": {},
+                "exception_stats": {
+                    "RuntimeError": [
+                        "debug_failing_microservice__AMTcAKa"
+                    ]
+                }
+            }
+        }
+    }
+}

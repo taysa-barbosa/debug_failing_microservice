@@ -14,3 +14,4 @@ Your goal is to make the application run successfully.
 - The application is located in `/app/`.
 - You may modify any files in `/app/`.
 - Do not hardcode outputs; fix the root cause of the issues.
+
